@@ -1,0 +1,1353 @@
+https://webtechnicom.net
+
+
+
+ation, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "bash: created:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   "id": "fa_123",
+  "country": "US",
+  "supported_currencies": ["usd"],
+  // Arrays of active, pending and restricted features summarize the status of all requested features
+  "active_features": ["financial_addresses.aba", "deposit_insurance"],
+  "pending_features": ["inbound_transfers.ach"],
+  "restricted_features": ["intra_stripe_flows", "outbound_payments.ach", "outbound_payments.us_domestic_wire"],
+  "balance": {
+    "cash": {"usd": 9000},
+    "inbound_pending": {"usd": 0},
+    "outbound_pending": {"usd": 1000}
+  },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+      bash: id:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   "country": "US",
+  "supported_currencies": ["usd"],
+  // Arrays of active, pending and restricted features summarize the status of all requested features
+  "active_features": ["financial_addresses.aba", "deposit_insurance"],
+  "pending_features": ["inbound_transfers.ach"],
+  "restricted_features": ["intra_stripe_flows", "outbound_payments.ach", "outbound_payments.us_domestic_wire"],
+  "balance": {
+    "cash": {"usd": 9000},
+    "inbound_pending": {"usd": 0},
+    "outbound_pending": {"usd": 1000}
+  },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldbash: country:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   "supported_currencies": ["usd"],
+  // Arrays of active, pending and restricted features summarize the status of all requested features
+  "active_features": ["financial_addresses.aba", "deposit_insurance"],
+  "pending_features": ["inbound_transfers.ach"],
+  "restricted_features": ["intra_stripe_flows", "outbound_payments.ach", "outbound_payments.us_domestic_wire"],
+  "balance": {
+    "cash": {"usd": 9000},
+    "inbound_pending": {"usd": 0},
+    "outbound_pending": {"usd": 1000}
+  },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldman Sachs"
+      }
+    }
+  ],
+  bash: supported_currencies:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   // Arrays of active, pending and restricted features summarize the status of all requested features
+  "active_features": ["financial_addresses.aba", "deposit_insurance"],
+  "pending_features": ["inbound_transfers.ach"],
+  "restricted_features": ["intra_stripe_flows", "outbound_payments.ach", "outbound_payments.us_domestic_wire"],
+  "balance": {
+    "cash": {"usd": 9000},
+    "inbound_pending": {"usd": 0},
+    "outbound_pending": {"usd": 1000}
+  },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldman Sachs"
+      }
+    }
+  ],
+  "livemode": true,
+
+  // Financial accounts begin in the "open" state, but can be closed
+  // `statusbash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$   "active_features": ["financial_addresses.aba", "deposit_insurance"],
+  "pending_features": ["inbound_transfers.ach"],
+  "restricted_features": ["intra_stripe_flows", "outbound_payments.ach", "outbound_payments.us_domestic_wire"],
+  "balance": {
+    "cash": {"usd": 9000},
+    "inbound_pending": {"usd": 0},
+    "outbound_pending": {"usd": 1000}
+  },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldman Sachs"
+      }
+    }
+  ],
+  "livemode": true,
+
+  // Financial accounts begin in the "open" state, but can be closed
+  // `status_details.closed` is populated once a financial account is closed
+  "stabash: active_features:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   "pending_features": ["inbound_transfers.ach"],
+  "restricted_features": ["intra_stripe_flows", "outbound_payments.ach", "outbound_payments.us_domestic_wire"],
+  "balance": {
+    "cash": {"usd": 9000},
+    "inbound_pending": {"usd": 0},
+    "outbound_pending": {"usd": 1000}
+  },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldman Sachs"
+      }
+    }
+  ],
+  "livemode": true,
+
+  // Financial accounts begin in the "open" state, but can be closed
+  // `status_details.closed` is populated once a financial account is closed
+  "status": "open",
+  "status_details": {
+    // `closbash: pending_features:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   "restricted_features": ["intra_stripe_flows", "outbound_payments.ach", "outbound_payments.us_domestic_wire"],
+  "balance": {
+    "cash": {"usd": 9000},
+    "inbound_pending": {"usd": 0},
+    "outbound_pending": {"usd": 1000}
+  },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldman Sachs"
+      }
+    }
+  ],
+  "livemode": true,
+
+  // Financial accounts begin in the "open" state, but can be closed
+  // `status_details.closed` is populated once a financial account is closed
+  "status": "open",
+  "status_details": {
+    // `closed` is null if financial account is not closed
+    "closed": {
+      // List of one or more reasons why the Finbash: restricted_features:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   "balance": {
+    "cash": {"usd": 9000},
+    "inbound_pending": {"usd": 0},
+    "outbound_pending": {"usd": 1000}
+  },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldman Sachs"
+      }
+    }
+  ],
+  "livemode": true,
+
+  // Financial accounts begin in the "open" state, but can be closed
+  // `status_details.closed` is populated once a financial account is closed
+  "status": "open",
+  "status_details": {
+    // `closed` is null if financial account is not closed
+    "closed": {
+      // List of one or more reasons why the FinancialAccount wabash: balance:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     "cash": {"usd": 9000},
+    "inbound_pending": {"usd": 0},
+    "outbound_pending": {"usd": 1000}
+  },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldman Sachs"
+      }
+    }
+  ],
+  "livemode": true,
+
+  // Financial accounts begin in the "open" state, but can be closed
+  // `status_details.closed` is populated once a financial account is closed
+  "status": "open",
+  "status_details": {
+    // `closed` is null if financial account is not closed
+    "closed": {
+      // List of one or more reasons why the FinancialAccount was closed:
+      // - accounbash: cash:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     "inbound_pending": {"usd": 0},
+    "outbound_pending": {"usd": 1000}
+  },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldman Sachs"
+      }
+    }
+  ],
+  "livemode": true,
+
+  // Financial accounts begin in the "open" state, but can be closed
+  // `status_details.closed` is populated once a financial account is closed
+  "status": "open",
+  "status_details": {
+    // `closed` is null if financial account is not closed
+    "closed": {
+      // List of one or more reasons why the FinancialAccount was closed:
+      // - account_rejected
+      // - clos      bash: inbound_pending:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     "outbound_pending": {"usd": 1000}
+  },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldman Sachs"
+      }
+    }
+  ],
+  "livemode": true,
+
+  // Financial accounts begin in the "open" state, but can be closed
+  // `status_details.closed` is populated once a financial account is closed
+  "status": "open",
+  "status_details": {
+    // `closed` is null if financial account is not closed
+    "closed": {
+      // List of one or more reasons why the FinancialAccount was closed:
+      // - account_rejected
+      // - clos      // - clos      // - clos 
+      "reasons"bash: outbound_pending:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldman Sachs"
+      }
+    }
+  ],
+  "livemode": true,
+
+  // Financial accounts begin in the "open" state, but can be closed
+  // `status_details.closed` is populated once a financial account is closed
+  "status": "open",
+  "status_details": {
+    // `closed` is null if financial account is not closed
+    "closed": {
+      // List of one or more reasons why the FinancialAccount was closed:
+      // - account_rejected
+      // - clos      // - clos      // - clos 
+      "reasons": []
+bash: },: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+bash: financial_addresses.aba: command not found
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$   "financial_addresses": [
+bash: financial_addresses:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     {
+>       "type": "aba",
+>       "supported_networks": ["ach", "domestic_wire_us"],
+>       "aba": {
+>         "account_number_last4": "7890",
+>         // Use the expand[] parameter to view the `account_number` field hidden by default
+>         "account_number": "1234567890",
+>         "routing_number": "000000001",
+>         "bank_name": "Goldman Sachs"
+>       }
+bash: type:: command not found
+bash: supported_networks:: command not found
+bash: aba:: command not found
+bash: account_number_last4:: command not found
+bash: account_number: command not found
+bash: //: is a directory
+bash: account_number:: command not found
+bash: routing_number:: command not found
+bash: bank_name:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     }
+bash: syntax error near unexpected token `}'
+(base) iMac-de-Guido:identity-main webtechnicom$   ],
+bash: ],: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   "livemode": true,
+bash: livemode:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$ 
+(base) iMac-de-Guido:identity-main webtechnicom$   // Financial accounts begin in the "open" state, but can be closed
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$   // `status_details.closed` is populated once a financial account is closed
+bash: status_details.closed: command not found
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$   "status": "open",
+bash: status:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   "status_details": {
+bash: status_details:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     // `closed` is null if financial account is not closed
+bash: closed: command not found
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$     "closed": {
+bash: closed:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$       // List of one or more reasons why the FinancialAccount was closed:
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$       // - account_rejected
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$       // - clos      // - clos      // - clos 
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$       "reasons": []
+bash: reasons:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     }
+bash: syntax error near unexpected token `}'
+(base) iMac-de-Guido:identity-main webtechnicom$   },
+bash: },: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$ 
+(base) iMac-de-Guido:identity-main webtechnicom$   // User-defined metadata
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$   "metadata": {},
+bash: metadata:: command not found
+(base) iMac-de-Guido : stripe treasury financial_accounts list
+ (Atlas Account) $ stripe treasury financial_accounts retrieve accept -d "expand[0]=100 000 000 .00 €" 
+
+Copier
+{
+"error": {
+"message"
+: 
+"This property cannot be expanded (100 000 000 )."
+,
+"request_log_url"
+: 
+"https://dashboard.stripe.com/test/logs/req_Qu61m6PdRB3MRe?t=1683844270"
+,
+"type"
+: 
+"invalid_request_error"
+,
+},
+}
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldman Sachs"
+      }
+    }
+  ],
+  "livemode": true,
+
+  // Financial accounts begin in the "open" state, but can be closed
+  // `status_details.closed` is populated once a financial account is closed
+  "status": "open",
+  "status_details": {
+    // `closed` is null if financial account is not closed
+    "closed": {
+      // List of one or more reasons why the FinancialAccount was closed:
+      // - accounbash: cash:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     "inbound_pending": {"usd": 0},
+    "outbound_pending": {"usd": 1000}
+  },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldman Sachs"
+      }
+    }
+  ],
+  "livemode": true,
+
+  // Financial accounts begin in the "open" state, but can be closed
+  // `status_details.closed` is populated once a financial account is closed
+  "status": "open",
+  "status_details": {
+    // `closed` is null if financial account is not closed
+    "closed": {
+      // List of one or more reasons why the FinancialAccount was closed:
+      // - account_rejected
+      // - clos      bash: inbound_pending:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     "outbound_pending": {"usd": 1000}
+  },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldman Sachs"
+      }
+    }
+  ],
+  "livemode": true,
+
+  // Financial accounts begin in the "open" state, but can be closed
+  // `status_details.closed` is populated once a financial account is closed
+  "status": "open",
+  "status_details": {
+    // `closed` is null if financial account is not closed
+    "closed": {
+      // List of one or more reasons why the FinancialAccount was closed:
+      // - account_rejected
+      // - clos      // - clos      // - clos 
+      "reasons"bash: outbound_pending:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   },
+  // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+  "financial_addresses": [
+    {
+      "type": "aba",
+      "supported_networks": ["ach", "domestic_wire_us"],
+      "aba": {
+        "account_number_last4": "7890",
+        // Use the expand[] parameter to view the `account_number` field hidden by default
+        "account_number": "1234567890",
+        "routing_number": "000000001",
+        "bank_name": "Goldman Sachs"
+      }
+    }
+  ],
+  "livemode": true,
+
+  // Financial accounts begin in the "open" state, but can be closed
+  // `status_details.closed` is populated once a financial account is closed
+  "status": "open",
+  "status_details": {
+    // `closed` is null if financial account is not closed
+    "closed": {
+      // List of one or more reasons why the FinancialAccount was closed:
+      // - account_rejected
+      // - clos      // - clos      // - clos 
+      "reasons": []
+bash: },: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+bash: financial_addresses.aba: command not found
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$   "financial_addresses": [
+bash: financial_addresses:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     {
+>       "type": "aba",
+>       "supported_networks": ["ach", "domestic_wire_us"],
+>       "aba": {
+>         "account_number_last4": "7890",
+>         // Use the expand[] parameter to view the `account_number` field hidden by default
+>         "account_number": "1234567890",
+>         "routing_number": "000000001",
+>         "bank_name": "Goldman Sachs"
+>       }
+bash: type:: command not found
+bash: supported_networks:: command not found
+bash: aba:: command not found
+bash: account_number_last4:: command not found
+bash: account_number: command not found
+bash: //: is a directory
+bash: account_number:: command not found
+bash: routing_number:: command not found
+bash: bank_name:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     }
+bash: syntax error near unexpected token `}'
+(base) iMac-de-Guido:identity-main webtechnicom$   ],
+bash: ],: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   "livemode": true,
+bash: livemode:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$ 
+(base) iMac-de-Guido:identity-main webtechnicom$   // Financial accounts begin in the "open" state, but can be closed
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$   // `status_details.closed` is populated once a financial account is closed
+bash: status_details.closed: command not found
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$   "status": "open",
+bash: status:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   "status_details": {
+bash: status_details:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     // `closed` is null if financial account is not closed
+bash: closed: command not found
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$     "closed": {
+bash: closed:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$       // List of one or more reasons why the FinancialAccount was closed:
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$       // - account_rejected
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$       // - clos      // - clos      // - clos 
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$       "reasons": []
+bash: reasons:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     }
+bash: syntax error near unexpected token `}'
+(base) iMac-de-Guido:identity-main webtechnicom$   },
+bash: },: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$ 
+(base) iMac-de-Guido:identity-main webtechnicom$   // User-defined metadata
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$   "metadata": {},
+bash: metadata:: command not found
+(base) iMac-de-Guido stripe treasury financial_accounts retrieve {{FINANCIAL_ACCOUNT_ID}}
+bash: }stripe: command not found
+(base) iMac-de-Guid {
+>   "object": "treasury.financial_account",
+>   "created": 1612927106,
+>   "id": "fa_123",
+>   "country": "US",
+>   "supported_currencies": ["usd"],
+>   // Arrays of active, pending and restricted features summarize the status of all requested features
+>   "active_features": ["financial_addresses.aba", "deposit_insurance"],
+>   "pending_features": ["inbound_transfers.ach"],
+>   "restricted_features": ["intra_stripe_flows", "outbound_payments.ach", "outbound_payments.us_domestic_wire"],
+>   "balance": {
+>     "cash": {"usd": 9000},
+>     "inbound_pending": {"usd": 0},
+>     "outbound_pending": {"usd": 1000}
+>   },
+>   // The FinancialAccount gains a FinancialAddress once the `financial_addresses.aba` feature is active. For more information, see "Activating features"
+>   "financial_addresses": [
+>     {
+>       "type": "aba",
+>       "supported_networks": ["ach", "domestic_wire_us"],
+>       "aba": {
+>         "account_number_last4": "7890",
+>         // Use the expand[] parameter to view the `account_number` field hidden by default
+>         "account_number": "1234567890",
+>         "routing_number": "000000001",
+>         "bank_name": "Goldman Sachs"
+>       }
+>     }
+  ],
+  "livemode": true,
+
+  // Financial accounts begin in the "open" state, but can be closed
+  // `status_detailsbash: object:: command not found
+bash: created:: command not found
+closed
+  "status": "open",
+  "status_details": {
+ bash: id:: command not found
+bash: country:: command not found
+   // `closed` is null if financial account is notbash: supported_currencies:: command not found
+ closed
+    "closed": {
+      // List of one or mobash: //: is a directory
+bash: active_features:: command not found
+bash: pending_features:: command not found
+re reasons why the FinancialAccount was closed:
+  bash: restricted_features:: command not found
+bash: balance:: command not found
+bash: cash:: command not found
+    // - account_rejected
+      // - closed_by_plabash: inbound_pending:: command not found
+bash: outbound_pending:: command not found
+bash: },: command not found
+tform
+      // - other
+      "reasons": []
+    }
+ bash: financial_addresses.aba: command not found
+bash: //: is a directory
+ },
+
+  // User-defined metadata
+  "metadata": {},
+bash: financial_addresses:: command not found
+bash: type:: command not found
+bash: supported_networks:: command not found
+}bash: aba:: command not found
+bash: account_number_last4:: command not found
+bash: account_number: command not found
+bash: //: is a directory
+bash: account_number:: command not found
+bash: routing_number:: command not found
+bash: bank_name:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   ],
+bash: ],: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   "livemode": true,
+bash: livemode:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$ 
+(base) iMac-de-Guido:identity-main webtechnicom$   // Financial accounts begin in the "open" state, but can be closed
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$   // `status_details.closed` is populated once a financial account is closed
+bash: status_details.closed: command not found
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$   "status": "open",
+bash: status:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   "status_details": {
+bash: status_details:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     // `closed` is null if financial account is not closed
+bash: closed: command not found
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$     "closed": {
+bash: closed:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$       // List of one or more reasons why the FinancialAccount was closed:
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$       // - account_rejected
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$       // - closed_by_platform
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$       // - other
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$       "reasons": []
+bash: reasons:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     }
+bash: syntax error near unexpected token `}'
+(base) iMac-de-Guido:identity-main webtechnicom$   },
+bash: },: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$ 
+(base) iMac-de-Guido:identity-main webtechnicom$   // User-defined metadata
+bash: //: is a directory
+(base) iMac-de-Guido:identity-main webtechnicom$   "metadata": {},
+bash: metadata:: command not found
+(base) iMac-de-Guid{
+  "error": {
+    "message": "This property cannot be expanded (100 000 000 ).",
+    "request_log_url": "https://dashboard.stripe.com/test/logs/req_Qu61m6PdRB3MRe?t=1683844270",
+    "type": "invalid_request_error"
+  }
+}bash: }{: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   "error": {
+bash: error:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     "message": "This property cannot be expanded (100 000 000 ).",
+bash: message:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     "request_log_url": "https://dashboard.stripe.com/test/logs/req_Qu61m6PdRB3MRe?t=1683844270",
+bash: request_log_url:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$     "type": "invalid_request_error"
+bash: type:: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$   }
+bash: syntax error near unexpected token `}'
+(base) iMac-de-Guid(Atlas Account) $ stripe treasury financial_accounts retrieve accept -d "expand[0]=100 000 000 .00 €" 
+bash: syntax error near unexpected token `}'
+(base) iMac-de-Guido:identity-main webtechnicom$ 
+(base) iMac-de-Guido:identity-main webtechnicom$ Copier
+{
+"error": {
+"message"
+: 
+"This property cannot be expanded (100 000 000 )."
+,
+"request_log_url"
+: 
+"https://dashboard.stripe.com/test/logs/req_Qu61m6PdRB3MRe?t=1683844270"
+,
+"type"
+: 
+"invalid_request_error"
+,
+},
+}bash: Copier: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$ {
+> "error": {
+> "message"
+> : 
+> "This property cannot be expanded (100 000 000 )."
+> ,
+> "request_log_url"
+> : 
+> "https://dashboard.stripe.com/test/logs/req_Qu61m6PdRB3MRe?t=1683844270"
+> ,
+> "type"
+> : 
+> "invalid_request_error"
+> ,
+> },
+> }(Atlas Account) $ stripe treasury financial_accounts retrieve accept -d "expand[0]=100 000 000 .00 €" 
+bash: syntax error near unexpected token `('
+(base) iMac-de-Guido:identity-main webtechnicom$ 
+(base) iMac-de-Guido:identity-main webtechnicom$ Copier
+{
+"error": {
+"message"
+: 
+"This property cannot be expanded (100 000 000 )."
+,
+"request_log_url"
+: 
+"https://dashboard.stripe.com/test/logsbash: Copier: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$ {
+> "error": {
+> "message"
+> : 
+> "This property cannot be expanded (100 000 000 )."
+> ,
+> "request_log_url"
+> : 
+> "https://dashboard.stripe.com/test/logs/req_Qu61m6PdRB3MRe?t=1683844270"
+> ,
+> "type"
+> : 
+> "invalid_request_error"
+> ,
+> },
+> }(Atlas Account) $ stripe treasury financial_accounts retrieve {{FINANCIAL_ACCOUNT_ID}}STEVE ALEXANDRE NAGLE CH68 06300506329514556 
+bash: syntax error near unexpected token `('
+(base) iMac-de-Guido:identity-main webtechnicom$ Wrong number of arguments passed. Expected arguments: financial_account
+(Atlas Account) $ 5354456210031493 10/25 *** 
+(Atlas Account) $ CH68 0630 0506 3295 1455 6 
+(Atlas Account) $ 5406 5900 0268 2713 03/25 *** 
+(Atlas Account) $ 5406 5900 0268 2713 03/25 *** UBS 
+(Atlas Account) $ 5406 5900 0268 2713 03/25 *** UBS bash: Wrong: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$ (Atlas Account) $ 5354456210031493 10/25 *** 
+bash: syntax error near unexpected token `$'
+(base) iMac-de-Guido:identity-main webtechnicom$ (Atlas Account) $ CH68 0630 0506 3295 1455 6 
+bash: syntax error near unexpected token `$'
+(base) iMac-de-Guido:identity-main webtechnicom$ (Atlas Account) $ 5406 5900 0268 2713 03/25 *** 
+bash: syntax error near unexpected token `$'
+(base) iMac-de-Guido:identity-main webtechnicom$ (Atlas Account) $ 5406 5900 0268 2713 03/25 *** UBS 
+bash: syntax error near unexpected token `$'
+(base) iMac-de-Guido:identity-main webtechnicom$ (Atlas Account) $ 5406 5900 0268 2713 03/25 *** UBS 
+bash: syntax error near unexpected token `$'
+(base) iMac-de-Guido:identity-main webtechnicom$ $payload
+(base) iMac-de-Guido:identity-main webtechnicom$ payment completed 
+bash: payment: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$ $payload completed
+bash: completed: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$ $load
+(base) iMac-de-Guido:identity-main webtechnicom$ $completed
+(base) iMac-de-Guido:identity-main webtechnicom$ $payd $100 000 000 00 € $completed
+bash: 00: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$ $payd $10 000 000 .oo€$in full
+bash: 0: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$ payment completed 
+bash: payment: command not found
+(base) iMac-de-Guido:identity-main webtechnicom$ $payment$completed
+(base) iMac-de-Guid(Atlas Account) $ stripe treasury financial_accounts retrieve accept -d "expand[0]=100 000 000 .00 €" $payd in fulled
+bash: syntax error near unexpected token `$'
+(base) iMac-de-Guido:identity-main webtechnicom$ $payload
+(base) iMac-de-Guido:identity-main webtechnicom$ 
+(base) iMac-de-Guido:identity-main webtechnicom$ 
+tures": [],
+>       "restricted_features": [],
+>       "status": "open",
+>       "status_details": {
+>         "closed": null
+>       },
+>       "supported_currencies": [
+>         "usd"
+>       ]
+>     },
+>     {...},
+>     {...}
+>   ]
+> }{
+>   "object": "treasury.financial_account_features",
+>   "card_issuing": {
+>     "requested": true,
+>     "status": "active",
+>     "status_details": []
+>   },
+>   "deposit_insurance": {
+>     "requested": true,
+>     "status": "active",
+>     "status_details": []
+>   },
+>   "financial_addresses": {
+>     "aba": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     }
+>   },
+>   "inbound_transfers": {
+>     "ach": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     }
+>   },
+>   "intra_stripe_flows": {
+>     "requested": true,
+>     "status": "active",
+>     "status_details": []
+>   },
+>   "outbound_payments": {
+>     "ach": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     },
+>     "us_domestic_wire": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     }
+>   },
+>   "outbound_transfers": {
+>     "ach": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     },
+>     "us_domestic_wire": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     }
+>   }
+> }stripe treasury financial_account_features update fa_1N6j1wBRCd7whSqPbNzR5avB \
+>   -d "card_issuing[requested]"=true
+> {
+>   "object": "treasury.financial_account_features",
+>   "deposit_insurance": {
+>     "requested": true,
+>     "status": "active",
+>     "status_details": []
+>   },
+>   "financial_addresses": {
+>     "aba": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     }
+>   },
+>   "inbound_transfers": {
+>     "ach": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     }
+>   },
+>   "intra_stripe_flows": {
+>     "requested": true,
+>     "status": "active",
+>     "status_details": []
+>   },
+>   "outbound_payments": {
+>     "ach": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     },
+>     "us_domestic_wire": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     }
+>   },
+>   "outbound_transfers": {
+>     "ach": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     },
+>     "us_domestic_wire": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     }
+>   }
+> }stripe treasury features retrieve fa_1N6j1wBRCd7whSqPbNzR5avB
+> {
+>   "object": "treasury.financial_account_features",
+>   "card_issuing": {
+>     "requested": true,
+>     "status": "active",
+>     "status_details": []
+>   },
+>   "deposit_insurance": {
+>     "requested": true,
+>     "status": "active",
+>     "status_details": []
+>   },
+>   "financial_addresses": {
+>     "aba": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     }
+>   },
+>   "inbound_transfers": {
+>     "ach": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     }
+>   },
+>   "intra_stripe_flows": {
+>     "requested": true,
+>     "status": "active",
+>     "status_details": []
+>   },
+>   "outbound_payments": {
+>     "ach": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     },
+>     "us_domestic_wire": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     }
+>   },
+>   "outbound_transfers": {
+>     "ach": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     },
+>     "us_domestic_wire": {
+>       "requested": true,
+>       "status": "active",
+>       "status_details": []
+>     }
+>   },
+>   "id": "fa_1N6j1wBRCd7whSqPbNzR5avB"
+> }{
+>   "id": "trxn_1N6j5kBRCd7whSqPIXYlJTQN",
+>   "object": "treasury.transaction",
+>   "amount": -100,
+>   "balance_impact": {
+>     "cash": -100,
+>     "inbound_pending": 0,
+>     "outbound_pending": 100
+>   },
+>   "created": 1683848412,
+>   "currency": "usd",
+>   "description": "Jane Austen (6789) | Outbound transfer | transfer",
+>   "financial_account": "fa_1N6j5kBRCd7whSqPSueSHTWs",
+>   "flow": "obt_1N6j5kBRCd7whSqPiatcSEyn",
+>   "flow_type": "outbound_transfer",
+>   "livemode": false,
+>   "status": "open",
+>   "status_transitions": {
+>     "posted_at": null,
+>     "void_at": null
+>   }
+>                     // Warning: casting using `as? [String: String]` looks simpler, but isn't safe:
+  }
+
+> # Please enter the commit message for your changes. Lines starting
+> # with '#' will be ignored, and an empty message aborts the commit.
+> #
+> # On branch master
+> # Your branch is up to date with 'origin/master'.
+> #
+> # Changes to be committed:
+> #new file:   ...]
+> #new file:   .idea/.gitignore
+> #new file:   .idea/codeStyles/Project.xml
+> #new file:   .idea/codeStyles/codeStyleConfig.xml
+> #new file:   .idea/identity-main.iml
+> #new file:   .idea/inspectionProfiles/Project_Default.xml
+> #new file:   .idea/inspectionProfiles/profiles_settings.xml
+> #new file:   .idea/misc.xml
+> #new file:   .idea/modules.xml
+> #new file:   .idea/vcs.xml
+> #modified:   README.md
+> #new file:   YouTrack_Server_TLS.pem
+> #new file:   checkout.css
+> #new file:   checkout.html
+> #new file:   checkout.js
+> #new file:   codiga.yml
+> #new file:   connect-destination-charge-checkout/.cli.json
+> #new file:   connect-destination-charge-checkout/.env.example
+> #new file:   connect-destination-charge-checkout/.gitignore
+> #new file:   connect-destination-charge-checkout/LICENSE
+> #new file:   connect-destination-charge-checkout/README.md
+> #new file:   connect-destination-charge-checkout/client/canceled.html
+> #new file:   connect-destination-charge-checkout/client/css/global.css
+> #new file:   connect-destination-charge-checkout/client/css/normalize.css
+> #new file:   connect-destination-charge-checkout/client/favicon.ico
+> #new file:   connect-destination-charge-checkout/client/guitar.png
+> #new file:   connect-destination-charge-checkout/client/index.html
+> #new file:   connect-destination-charge-checkout/client/script.js
+#       new file:   connect-destination-charge-checkout/client/succes> #new file:   connect-destination-charge-checkout/client/success.html
+> #new file:   connect-destination-charge-checkout/server/.htaccess
+> #new file:   connect-destination-charge-checkout/server/README.md
+> #new file:   connect-destination-charge-checkout/server/composer.json
+> #new file:   connect-destination-charge-checkout/server/config.php
+> #new file:   connect-destination-charge-checkout/server/index.php
+> #new file:   e
+> #new file:   modal/connect-onboarding-for-express/.cli.json
+> #new file:   modal/connect-onboarding-for-express/.env.example
+> #new file:   modal/connect-onboarding-for-express/.gitignore
+> #new file:   modal/connect-onboarding-for-express/LICENSE
+> #new file:   modal/connect-onboarding-for-express/README.md
+> #new file:   modal/connect-onboarding-for-express/client/css/global.css
+> #new file:   modal/connect-onboarding-for-express/client/css/normalize.css
+> #new file:   modal/connect-onboarding-for-express/client/favicon.ico
+> #new file:   modal/connect-onboarding-for-express/client/index.html
+> #new file:   modal/connect-onboarding-for-express/client/script.js
+> #new file:   modal/connect-onboarding-for-express/client/success.html
+> #new file:   modal/connect-onboarding-for-express/server/Pipfile
+> #new file:   modal/connect-onboarding-for-express/server/Pipfile.lock
+> #new file:   modal/connect-onboarding-for-express/server/README.md
+> #new file:   modal/connect-onboarding-for-express/server/server.py
+> #new file:   server.py
+> #new file:   subscription=sub_xxxxxxxxxxxxx,
+> #
+> # Changes not staged for commit:
+> #modified:   ...]
+> #modified:   .cli.json
+> #modified:   .idea/identity-main.iml
+> #modified:   .idea/misc.xml
+> #modified:   .idea/vcs.xml
+> #modified:   .sr-select:first-child
+> #modified:   .sr-select:last-child
+> #modified:   README.md
+> #modified:   modal/server/ruby/server.rb
+> #modified:   subscription=sub_xxxxxxxxxxxxx,
+> #
+> # Untracked files:
+> #,
+> 
+> # Please enter the commit message for your changes. Lines starting
+> # with '#' will be ignored, and an empty message aborts the commit.
+> #
+> # On branch master
+> # Your branch is up to date with 'origin/master'.
+> #
+> # Changes to be committed:
+> #new file:   ...]
+> #new file:   .idea/.gitignore
+> #new file:   .idea/codeStyles/Project.xml
+> #new file:   .idea/codeStyles/codeStyleConfig.xml
+> #new file:   .idea/identity-main.iml
+> #new file:   .idea/inspectionProfiles/Project_Default.xml
+> #new file:   .idea/inspectionProfiles/profiles_settings.xml
+> #new file:   .idea/misc.xml
+> #new file:   .idea/modules.xml
+> #new file:   .idea/vcs.xml
+> #modified:   README.md
+> #new file:   YouTrack_Server_TLS.pem
+> #new file:   checkout.css
+> #new file:   checkout.html
+> #new file:   checkout.js
+> #new file:   codiga.yml
+> #new file:   connect-destination-charge-checkout/.cli.json
+> #new file:   connect-destination-charge-checkout/.env.example
+> #new file:   connect-destination-charge-checkout/.gitignore
+> #new file:   connect-destination-charge-checkout/LICENSE
+> #new file:   connect-destination-charge-checkout/README.md
+> #new file:   connect-destination-charge-checkout/client/canceled.html
+> #new file:   connect-destination-charge-checkout/client/css/global.css
+> #new file:   connect-destination-charge-checkout/client/css/normalize.css
+> #new file:   connect-destination-charge-checkout/client/favicon.ico
+> #new file:   connect-destination-charge-checkout/client/guitar.png
+> #new file:   connect-destination-charge-checkout/client/index.html
+> #new file:   connect-destination-charge-checkout/client/script.js
+> #new file:   connect-destination-charge-checkout/client/success.html
+> #new file:   connect-destination-charge-checkout/server/.htaccess
+> #new file:   connect-destination-charge-checkout/server/README.md
+> #new file:   connect-destination-charge-checkout/server/composer.json
+> #new file:   connect-destination-charge-checkout/server/config.php
+> #new file:   connect-destination-charge-checkout/server/index.php
+> #new file:   e
+> #new file:   modal/connect-onboarding-for-express/.cli.json
+> #new file:   modal/connect-onboarding-for-express/.env.example
+> #new file:   modal/connect-onboarding-for-express/.gitignore
+> #new file:   modal/connect-onboarding-for-express/LICENSE
+> #new file:   modal/connect-onboarding-for-express/README.md
+> #new file:   modal/connect-onboarding-for-express/client/css/global.css
+> #new file:   modal/connect-onboarding-for-express/client/css/normalize.css
+> #new file:   modal/connect-onboarding-for-express/client/favicon.ico
+> #new file:   modal/connect-onboarding-for-express/client/index.html
+> #new file:   modal/connect-onboarding-for-express/client/script.js
+> #new file:   modal/connect-onboarding-for-express/client/success.html
+> #new file:   modal/connect-onboarding-for-express/server/Pipfile
+> #new file:   modal/connect-onboarding-for-express/server/Pipfile.lock
+> #new file:   modal/connect-onboarding-for-express/server/README.md
+> #new file:   modal/connect-onboarding-for-express/server/server.py
+> #new file:   server.py
+> #new file:   subscription=sub_xxxxxxxxxxxxx,
+> #
+> # Changes not staged for commit:
+> #modified:   ...]
+> #modified:   .cli.json
+> #modified:   .idea/identity-main.iml
+> #modified:   .idea/misc.xml
+> #modified:   .idea/vcs.xml
+> #modified:   .sr-select:first-child
+> #modified:   .sr-select:last-child
+> #modified:   README.md
+> #modified:   modal/server/ruby/server.rb
+> #modified:   subscription=sub_xxxxxxxxxxxxx,
+> #
+> # Untracked files:
+> #,
+> #:
+> #APIclient.swift
+> #APPAPIClient.h
+> #APPAPIClient.m
+> #APPAppDelegate.m
+> #AppDelegate.swift
+> #This property cannot be expanded (100 000 000 ).
+> #account_number:
+> #bank_name:
+> #error:
+> #helloworld/
+> #identity/
+> #invalid_request_error
+> #message
+> #request_log_url
+> #routing_number:
+> #type
+> #}
+> #},
+> #
+> stripe treasury transactions retrieve trxn_1N6j5kBRCd7whSqPIXYlJTQN
+> {
+>   "id": "trxn_1N6j5kBRCd7whSqPIXYlJTQN",
+>   "object": "treasury.transaction",
+>   "amount": -100,
+>   "balance_impact": {
+>     "cash": -100,
+>     "inbound_pending": 0,
+>     "outbound_pending": 100
+>   },
+>   "created": 1683848412,
+>   "currency": "usd",
+>   "description": "Jane Austen (6789) | Outbound transfer | transfer",
+>   "financial_account": "fa_1N6j5kBRCd7whSqPSueSHTWs",
+>   "flow": "obt_1N6j5kBRCd7whSqPiatcSEyn",
+>   "flow_type": "outbound_transfer",
+>   "livemode": false,
+>   "status": "open",
+>   "status_transitions": {
+>     "posted_at": null,
+>     "void_at": null
+>   }
+>                     // Warning: casting using `as? [String: String]` looks simpler, but isn't safe:
+              if let data = data {;                 do { Any]
+                      // Warning: casting using `as? [String: String]` looks simpler, but isn't safe:
+  }
+   stripe treasury transactions list \
+>   --financial-account=fa_1N6j5kBRCd7whSqPSueSHTWs \
+>   --limit=3
+> {
+>   "object": "list",
+>   "url": "/v1/treasury/transactions",
+>   "has_more": false,
+>   "data": [
+>     {
+>       "id": "trxn_1N6j5kBRCd7whSqPIXYlJTQN",
+>       "object": "treasury.transaction",
+>       "amount": -100,
+>       "balance_impact": {
+>         "cash": -100,
+>         "inbound_pending": 0,
+>         "outbound_pending": 100
+>       },
+>       "created": 1683848412,
+>       "currency": "usd",
+>       "description": "Jane Austen (6789) | Outbound transfer | transfer",
+>       "financial_account": "fa_1N6j5kBRCd7whSqPSueSHTWs",
+>       "flow": "obt_1N6j5kBRCd7whSqPiatcSEyn",
+>       "flow_type": "outbound_transfer",
+>       "livemode": false,
+>       "status": "open",
+>       "status_transitions": {
+>         "posted_at": null,
+>         "void_at": null
+>       }
+>     },
+>     {...},
+>     {...}
+>   ]
+> }{
+>   "id": "trxne_1N6jFCBRCd7whSqPPqicrz7r",
+>   "object": "treasury.transaction_entry",
+>   "balance_impact": {
+>     "cash": 0,
+>     "inbound_pending": 0,
+>     "outbound_pending": -1000
+>   },
+>   "created": 1683848998,
+>   "currency": "usd",
+>   "effective_at": 1683848998,
+>   "financial_account": "fa_1N6jFCBRCd7whSqPm4m7B6sl",
+>   "flow": "obt_1N6jFCBRCd7whSqPwWha1sLU",
+>   "flow_type": "outbound_transfer",
+>   "livemode": false,
+>   "transaction": "trxn_1N6jFCBRCd7whSqPomBoWeso",
+>   "type": "outbound_transfer"
+> }stripe treasury transaction_entries retrieve trxne_1N6jFCBRCd7whSqPPqicrz7r
+> {
+>   "id": "trxne_1N6jFCBRCd7whSqPPqicrz7r",
+>   "object": "treasury.transaction_entry",
+>   "balance_impact": {
+>     "cash": 0,
+>     "inbound_pending": 0,
+>     "outbound_pending": -1000
+>   },
+>   "created": 1683848998,
+>   "currency": "usd",
+>   "effective_at": 1683848998,
+>   "financial_account": "fa_1N6jFCBRCd7whSqPm4m7B6sl",
+>   "flow": "obt_1N6jFCBRCd7whSqPwWha1sLU",
+>   "flow_type": "outbound_transfer",
+>   "livemode": false,
+>   "transaction": "trxn_1N6jFCBRCd7whSqPomBoWeso",
+>   "type": "outbound_transfer"
+> }stripe treasury transaction_entries list \
+>   --financial-account=fa_1N6jFCBRCd7whSqPm4m7B6sl \
+>   --limit=3
+{
+  "object": "list",
+  "url": "/v1/treasury/received_credits",
+  "has_more": false,
+  "data": [
+    {
+      "id": "rc_1N6jRpBRCd7whSqPYIMhm1lz",
+      "object": "treasury.received_credit",
+      "amount": 1234,
+      "created": 1683849781,
+      "currency": "usd",
+      "description": "Stripe Test",
+      "failure_code": null,
+      "financial_account": "fa_1N6jRpBRCd7whSqPtua59kkd",
+      "hosted_regulatory_receipt_url": "https://payments.stripe.com/regulatory-receipt/CBQaFwoVYWNjdF8xR3E0dEZCUkNkN3doU3FQKLWE9qIGMgYvOLXGMiY6NpMrKKjWdWTxInrkJVguy75VQAkpP-Vjrj9jCuUwqs8gDsLzcEUHWV79IBDQff2Vxb3kqc0u5Q",
+      "initiating_payment_method_details": {
+        "billing_details": {
+          "address": {
+            "city": null,
+            "country": null,
+            "line1": null,
+            "line2": null,
+            "postal_code": null,
+            "state": null
+          },
+          "email": null,
+          "name": "Jane Austen"
+        },
+        "type": "us_bank_account",
+        "us_bank_account": {
+          "bank_name": "STRIPE TEST BANK",
+          "last4": "6789",
+          "routing_number": "110000000"
+        }
+      },
+      "linked_flows": {
+        "credit_reversal": null,
+        "issuing_authorization": null,
+        "issuing_transaction": null,
+        "source_flow": null,
+        "source_flow_type": null
+      },
+      "livemode": false,
+      "network": "ach",
+      "reversal_details": {
+        "deadline": 1684195200,
+        "restricted_reason": null
+      },
+      "status": "succeeded",
+      "transaction": "trxn_1N6jRpBRCd7whSqPh9SI0udS"
+    },
+    {...},
+    {...}
+  ]
+}
+{
+  "id": "fcaowns_1N6jcDBRCd7whSqPf4C9ZTPW",
+  "object": "financial_connections.account_ownership",
+  "created": 1683850425,
+  "owners": {
+    "object": "list",
+    "data": [],
+    "has_more": false,
+    "url": "/v1/financial_connections/accounts/fca_1N6jcDBRCd7whSqPJdWj4v5q/owners?ownership=fcaowns_1N6jcDBRCd7whSqPf4C9ZTPW"
+  }
+}
+{
+  "id": "fcaown_1N6jcDBRCd7whSqP2eCsqHfr",
+  "object": "financial_connections.account_owner",
+  "email": "nobody+janesmith@stripe.com",
+  "name": "Jane Smith",
+  "ownership": "fcaowns_1N6jcDBRCd7whSqPHRD7Tpq5",
+  "phone": "+1 555-555-5555",
+  "raw_address": "123 Main Street, Everytown USA",
+  "refreshed_at": null
+}

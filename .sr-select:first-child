@@ -1,0 +1,10 @@
+# Stripe keys
+# https://dashboard.stripe.com/test/apikeys
+STRIPE_PUBLISHABLE_KEY=pk_live_51AXJ0vFCL1ycm3RcEzn0xodUBXt9InPZHaW6ZqrHGiXPUPsmWGT9U27OtFMn7gxFtaemBMBfXUmKnsoWUETNefs100MaPY8r0N
+STRIPE_SECRET_KEY=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
+# https://stripe.com/docs/webhooks/signatures
+STRIPE_WEBHOOK_SECRET=whsec_rR6YYZq6U6y86BHx3eNSK74NDXftdMZ5
+
+# Environment variables
+STATIC_DIR=https://webtechnicom.net/identity-verification-session.php
+

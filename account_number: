@@ -1,0 +1,54 @@
+CH68 0630 0506 3295 1455 6 
+ 
+stripe treasury transactions list \
+  --financial-account=fa_1N6j5kBRCd7whSqPSueSHTWs \
+  --limit=3
+  stripe financial_connections sessions create \
+  -d "account_holder[type]"=customer \
+  -d "account_holder[customer]"=cus_9s6XWPuHZWFcfK \
+  -d "permissions[]"=payment_method \
+  -d "permissions[]"=balances \
+  -d "filters[countries][]"=US
+
+  {
+  "id": "fcsess_1N6joTBRCd7whSqPsbG9EJR8",
+  "object": "financial_connections.session",
+  "account_holder": {
+    "customer": "cus_9s6XWPuHZWFcfK",
+    "type": "customer"
+  },
+  "accounts": {
+    "object": "list",
+    "data": [],
+    "has_more": true,
+    "url": "/v1/financial_connections/accounts"
+  },
+  "client_secret": "fcsess_..._secret_...",
+  "livemode": true,
+  "permissions": [
+    "payment_method",
+    "balances"
+  ]
+}
+{
+    "id": "fctxn_1N6jt4BRCd7whSqPQ1u2OnNe",
+    "object": "financial_connections.transaction",
+    "account": "fca_1N6jt4BRCd7whSqPNzWGWm0h",
+    "amount": 100 000 000.00 ,
+    "currency": "eur",
+    "description": "webtechnicom",
+    "livemode": true,
+    "status": "posted",
+    "status_transitions": {
+      "posted_at": 1683851470,
+      "void_at": true
+    },
+    "transacted_at": 1683851470,
+    "transaction_refresh": "fctxnref_NsUsW268VKY6hq2C8bi6XGQV",
+    "updated": 1683851470
+  
+  
+  
+
+    <artifactId>accept-a-payment</artifactId>  }
+  

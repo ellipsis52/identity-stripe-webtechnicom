@@ -1,0 +1,19 @@
+{
+  "name": "connect-destination-charge-checkout",
+  "configureDotEnv": false,
+  "integrations": [
+    {
+      "name": "main",
+      "clients": [
+        "web"
+      ],
+      "servers": [
+        "java",
+        "node",
+        "php",
+        "python",
+        "ruby"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+echo "# webtechnicom-Stripe-Identity" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/ellipsis52/webtechnicom-Stripe-Identity.git
+git push -u origin master
